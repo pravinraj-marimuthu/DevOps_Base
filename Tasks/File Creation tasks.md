@@ -27,5 +27,9 @@ Task Description:
        ![image](https://github.com/user-attachments/assets/6c9b870b-3183-4c32-b39f-7970770ab310)
 
     + Display **_my_folder_** directory
+  
+      ```
+       ls -l
+      ```
 
        ![image](https://github.com/user-attachments/assets/a445150c-f50a-4b04-a057-7dd40978a4a7)
