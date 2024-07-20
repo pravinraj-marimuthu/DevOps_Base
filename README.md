@@ -1,5 +1,6 @@
-# DevOps 
+# My DevOps Repository
 
-### Assessments and Project will be uploaded in this repo
+   **Assessments and Projects will be uploaded here**
 
-Task 1 - [File Creation Task](https://github.com/pravinraj-marimuthu/DevOps/blob/main/Tasks/File%20Creation%20tasks.md)
+- Assessments
+  - Task 1 - [File Creation Task](https://github.com/pravinraj-marimuthu/DevOps/blob/main/Tasks/File%20Creation%20tasks.md)
