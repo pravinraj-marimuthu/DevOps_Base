@@ -21,10 +21,11 @@
      echo "Error code - $code"
      echo "Error message - $message"
      ```
+     - Post execution of the above script 
      
      ![image](https://github.com/user-attachments/assets/04c60807-2e93-4f2f-84d8-6ce2233b915a)
 
-     <br />
+___
 
 2. Given a file, replace all occurrence of the word "give" with "learning" from 5th line till the end in only those lines that contain the word "welcome"
 
@@ -43,10 +44,7 @@
               fi
      done
      ```
-   - Pre and Post execution of the above script 
+     - Pre and Post execution of the above script 
 
      ![image](https://github.com/user-attachments/assets/0b0b4fcf-7791-46fa-a02a-122bd8a5d961)
-
-     
-
-   
+___
