@@ -7,3 +7,4 @@
   - Task 3 - [Network Task](https://github.com/pravinraj-marimuthu/DevOps/blob/main/Tasks/Network%20Task.md)
   - Task 4 - [Scripting task](https://github.com/pravinraj-marimuthu/DevOps/blob/main/Tasks/Scripting%20Task.md)
   - Task 5 - [VCS Task](https://github.com/pravinraj-marimuthu/DevOps/blob/main/Tasks/VCS%20Task.md)
+  - Task 6 - [Docker Task](https://github.com/pravinraj-marimuthu/DevOps/blob/main/Tasks/Docker%20Task.md)
