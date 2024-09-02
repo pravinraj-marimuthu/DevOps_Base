@@ -12,3 +12,4 @@
   - Task 8 - [Docker Task - 3](https://github.com/pravinraj-marimuthu/DevOps/blob/main/Tasks/Docker%20Task%20-%203.md)
   - Task 9 - [Jenkins Task](https://github.com/pravinraj-marimuthu/DevOps/blob/main/Tasks/Jenkins%20Task.md)
   - Task 10 - [Jenkins Task - 2](https://github.com/pravinraj-marimuthu/DevOps/blob/main/Tasks/Jenkins%20Task%20-%202.md)
+  - Task 11 - [AWS Task - 1](https://github.com/pravinraj-marimuthu/DevOps/blob/main/Tasks/AWS%20Task%20-%201.md)
