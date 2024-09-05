@@ -16,6 +16,8 @@ Create a simple script file and push it to repo. Create a project in Jenkins con
    ![image](https://github.com/user-attachments/assets/ff287792-724d-49da-a2a3-8905d2402ac2)
    ![image](https://github.com/user-attachments/assets/17fe6384-e7bd-471e-9f9a-baa1dc9c7cf6)
    ![image](https://github.com/user-attachments/assets/042f6d95-3f0b-415e-a965-02e92a5fa39f)
+   ![image](https://github.com/user-attachments/assets/fe0d0342-f801-4afb-8f29-d4e9dc097868)
+   ![image](https://github.com/user-attachments/assets/2aef32cc-6809-4da4-b4ca-3fdb8e106814)
 
    Commit has happened above. Jenkins Job triggered automatically and Email has been sent to mail ID.
 
