@@ -25,4 +25,13 @@ ___
   3. Launch two ec2-instances and connect it to a application load balancer, where the output traffic from the server must be an load balancer IP address
 
      - Launch two ec2-instances and connect it to a application load balancer
+       ![image](https://github.com/user-attachments/assets/b03d2e09-c78f-440f-bdfc-3fb433964f6f)
+       ![image](https://github.com/user-attachments/assets/edd84a61-f429-4a22-b559-aa2aa23110d4)
+
      - output traffic from the server must be an load balancer IP address
+     
+       ![image](https://github.com/user-attachments/assets/2152ef41-02a5-405a-a2be-b1ebf6bfb049)
+       ![image](https://github.com/user-attachments/assets/557ea936-41f2-44fa-950f-ff28fc9adde3)
+       ![image](https://github.com/user-attachments/assets/491129f5-13bd-49ac-80c1-1df1d01c7ab4)
+
+___
