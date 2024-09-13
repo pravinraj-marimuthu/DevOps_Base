@@ -14,3 +14,5 @@
   - Task 10 - [Jenkins Task - 2](https://github.com/pravinraj-marimuthu/DevOps/blob/main/Tasks/Jenkins%20Task%20-%202.md)
   - Task 11 - [AWS Task - 1](https://github.com/pravinraj-marimuthu/DevOps/blob/main/Tasks/AWS%20Task%20-%201.md)
   - Task 12 - [AWS Task - 2](https://github.com/pravinraj-marimuthu/DevOps/blob/main/Tasks/AWS%20Task%20-%202.md)
+  - Task 13 - [AWS Task - 3](https://github.com/pravinraj-marimuthu/DevOps/blob/main/Tasks/AWS%20Task%20-%203.md)
+  - Task 14 - [AWS Task - 4](https://github.com/pravinraj-marimuthu/DevOps/blob/main/Tasks/AWS%20Task%20-%204.md)
