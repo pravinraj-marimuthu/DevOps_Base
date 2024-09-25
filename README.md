@@ -17,3 +17,5 @@
   - Task 13 - [AWS Task - 3](https://github.com/pravinraj-marimuthu/DevOps/blob/main/Tasks/AWS%20Task%20-%203.md)
   - Task 14 - [AWS Task - 4](https://github.com/pravinraj-marimuthu/DevOps/blob/main/Tasks/AWS%20Task%20-%204.md)
   - Task 15 - [AWS Task - 5](https://github.com/pravinraj-marimuthu/DevOps/blob/main/Tasks/AWS%20Task%20-%205.md)
+  - Task 16 - [Kubernetes Task](https://github.com/pravinraj-marimuthu/DevOps/blob/main/Tasks/Kubernetes%20Task.md)
+  - Task 17 - [Kubernetes Task - 2](https://github.com/pravinraj-marimuthu/DevOps/blob/main/Tasks/Kubernetes%20Task%20-%202.md)
