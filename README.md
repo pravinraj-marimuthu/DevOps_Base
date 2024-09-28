@@ -20,3 +20,4 @@
   - Task 16 - [Kubernetes Task](https://github.com/pravinraj-marimuthu/DevOps/blob/main/Tasks/Kubernetes%20Task.md)
   - Task 17 - [Kubernetes Task - 2](https://github.com/pravinraj-marimuthu/DevOps/blob/main/Tasks/Kubernetes%20Task%20-%202.md)
   - Task 18 - [Terraform Task](https://github.com/pravinraj-marimuthu/DevOps/blob/main/Tasks/Terraform%20Task.md)
+  - Task 19 - [Terraform Task - 2](https://github.com/pravinraj-marimuthu/DevOps/blob/main/Tasks/Terraform%20Task%20-%202.md)
