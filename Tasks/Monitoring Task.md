@@ -2,6 +2,10 @@
 
   1. Install Prometheus and Grafana on a Linux EC2 machine, connect Prometheus to Grafana, and create a dashboard to view metrics.
 
+     - Instances for Node_Exporter, Prometheus and Grafana
+    
+       <img width="883" alt="image" src="https://github.com/user-attachments/assets/52bc01fc-c8ab-4124-8792-a4a0b30ca015">
+
      - Install Node-Exporter
 
        ```
